@@ -1,16 +1,18 @@
 ### Hi there 👋
+<p style="text-align:center;"><i>"Stay hungry, stay foolish." - Steve Jobs</i></p>
 
-<!--
-**AltafAllahAbbassi/AltafAllahAbbassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Altaf (She/her) <br>
+📍 Global citizen currently enjoying Montréal, Quebec, Canada 🏴󠁣󠁡󠁱󠁣󠁿 🇨🇦. <br>
+🏢 Software Engineer and Graduate Research Assistant at Polytechnique Montréal and Sycodal Inc.<br>
+💙 I love to code and I enjoy building software systems based on AI.<br>
+🤖 I am currently conducting research towards robust ML pipelines that can self-adapt to variations in the production environment.<br>
+🔭 Research intersts: Software Quality, Software Engineering for Artificial Intelligence (SE4AI), MlOps, Data drifts and validation, ML Model Validation.<br>
+💚 I am a nature lover 🍂 🌲 ❄️ ⛱️ <br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Education<br>
+🎓 2023 - 2025: Msc of Software Engineering, Polytechnique Montréal 🇨🇦<br>
+🎓 2021 - 2022: Msc of Information Techniques, ENIT and Technische Universität Braunschweig 🇹🇳 🇩🇪 <br>
+🎓 2017 - 2022: Bachlor of Software enginnering, INSAT 🇹🇳
+
+
