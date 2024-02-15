@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p style="text-align:center;"><i>"Stay hungry, stay foolish." - Steve Jobs</i></p>
+<p style="align:center;"><i>"Stay hungry, stay foolish." - Steve Jobs</i></p>
 
 I am Altaf (She/her) <br>
 📍 Global citizen currently enjoying Montréal, Quebec, Canada 🏴󠁣󠁡󠁱󠁣󠁿 🇨🇦. <br>
@@ -7,7 +7,7 @@ I am Altaf (She/her) <br>
 💙 I love to code and I enjoy building software systems based on AI.<br>
 🤖 I am currently conducting research towards robust ML pipelines that can self-adapt to variations in the production environment.<br>
 🔭 Research intersts: Software Quality, Software Engineering for Artificial Intelligence (SE4AI), MlOps, Data drifts and validation, ML Model Validation.<br>
-💚 I am a nature lover 🍂 🌲 ❄️ ⛱️ <br>
+💚 Nature lover 🍂 🌲 ❄️ ⛱️ <br>
 
 
 📚 Education<br>
