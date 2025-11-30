@@ -3,9 +3,9 @@
 
 I am Altaf (She/her) <br>
 📍 Global citizen currently enjoying Montréal, Quebec, Canada 🏴󠁣󠁡󠁱󠁣󠁿 🇨🇦. <br>
-🏢 Software Engineer and Graduate Research Assistant at Polytechnique Montréal and Sycodal Inc.<br>
-💙 I love to code and I enjoy building software systems based on AI.<br>
-🤖 I am currently conducting research towards robust ML pipelines that can self-adapt to variations in the production environment.<br>
+🏢 Software, Data and AI developer. Currently working as Data Analyst at Olymel.<br>
+💙 I love coding and building software systems powered by AI.<br>
+🤖 During my master’s, I conducted research on robust ML pipelines that self-adapt to variations in production .<br>
 🔭 Research intersts: LLMs, Software Quality, Software Engineering for Artificial Intelligence (SE4AI), MlOps, Data drifts and validation, ML Model Validation.<br>
 💚 Nature lover 🍂 🌲 ❄️ ⛱️ <br>
 
